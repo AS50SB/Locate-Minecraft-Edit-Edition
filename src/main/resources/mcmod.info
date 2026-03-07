@@ -1,0 +1,16 @@
+[
+{
+  "modid": "locatelm",
+  "name": "Locate Legacy:Minecraft Edit Edition",
+  "description": "Replace modern /locate command output using standard Forge API.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["E&B(not_have_name/as50sb)","trae-ai"],
+  "credits": "Replicate modern /locate command output using standard Forge API.",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
